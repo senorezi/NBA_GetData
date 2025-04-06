@@ -1,0 +1,12 @@
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Application\bin\Release\net8.0\GetTodaysGame.Application.deps.json
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Application\bin\Release\net8.0\GetTodaysGame.Application.dll
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Application\bin\Release\net8.0\GetTodaysGame.Application.pdb
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Application\obj\Release\net8.0\GetTodaysGame.Application.csproj.AssemblyReference.cache
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Application\obj\Release\net8.0\GetTodaysGame.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Application\obj\Release\net8.0\GetTodaysGame.Application.AssemblyInfoInputs.cache
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Application\obj\Release\net8.0\GetTodaysGame.Application.AssemblyInfo.cs
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Application\obj\Release\net8.0\GetTodaysGame.Application.csproj.CoreCompileInputs.cache
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Application\obj\Release\net8.0\GetTodaysGame.Application.dll
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Application\obj\Release\net8.0\refint\GetTodaysGame.Application.dll
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Application\obj\Release\net8.0\GetTodaysGame.Application.pdb
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Application\obj\Release\net8.0\ref\GetTodaysGame.Application.dll

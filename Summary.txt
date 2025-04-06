@@ -1,0 +1,15 @@
+Main Question:
+Will this simple formula that will help me choose what team I think is going to win?
+
+Team Win Ratio 
+Are star players in?
+
+Get today's game and team's W and L
+https://cdn.nba.com/static/json/staticData/scheduleLeagueV2.json
+
+Get list of all current players
+https://basketball.realgm.com/nba/players
+
+Get injury report
+https://official.nba.com/nba-injury-report-2024-25-season/
+

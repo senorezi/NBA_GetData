@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\NBA\\GetCurrentTeams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA26798-12F6-4C26-8B6D-76F898B8535A}|GetCurrentTeams.Application\\GetCurrentTeams.Application.csproj|c:\\projects\\nba\\getcurrentteams\\getcurrentteams.application\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA26798-12F6-4C26-8B6D-76F898B8535A}|GetCurrentTeams.Application\\GetCurrentTeams.Application.csproj|solutionrelative:getcurrentteams.application\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3222EFDE-7B59-440B-906C-61D22B7C8837}|GetCurrentTeams.csproj|c:\\projects\\nba\\getcurrentteams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3222EFDE-7B59-440B-906C-61D22B7C8837}|GetCurrentTeams.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA26798-12F6-4C26-8B6D-76F898B8535A}|GetCurrentTeams.Application\\GetCurrentTeams.Application.csproj|c:\\projects\\nba\\getcurrentteams\\getcurrentteams.application\\models\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA26798-12F6-4C26-8B6D-76F898B8535A}|GetCurrentTeams.Application\\GetCurrentTeams.Application.csproj|solutionrelative:getcurrentteams.application\\models\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA26798-12F6-4C26-8B6D-76F898B8535A}|GetCurrentTeams.Application\\GetCurrentTeams.Application.csproj|c:\\projects\\nba\\getcurrentteams\\getcurrentteams.application\\getcurrentteams.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AA26798-12F6-4C26-8B6D-76F898B8535A}|GetCurrentTeams.Application\\GetCurrentTeams.Application.csproj|solutionrelative:getcurrentteams.application\\getcurrentteams.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3222EFDE-7B59-440B-906C-61D22B7C8837}|GetCurrentTeams.csproj|c:\\projects\\nba\\getcurrentteams\\getcurrentteams.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3222EFDE-7B59-440B-906C-61D22B7C8837}|GetCurrentTeams.csproj|solutionrelative:getcurrentteams.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetCurrentTeams\\GetCurrentTeams.Application\\Services\\TeamService.cs",
+              "RelativeDocumentMoniker": "GetCurrentTeams.Application\\Services\\TeamService.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetCurrentTeams\\GetCurrentTeams.Application\\Services\\TeamService.cs",
+              "RelativeToolTip": "GetCurrentTeams.Application\\Services\\TeamService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:04:22.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamDto.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetCurrentTeams\\GetCurrentTeams.Application\\Models\\TeamDto.cs",
+              "RelativeDocumentMoniker": "GetCurrentTeams.Application\\Models\\TeamDto.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetCurrentTeams\\GetCurrentTeams.Application\\Models\\TeamDto.cs",
+              "RelativeToolTip": "GetCurrentTeams.Application\\Models\\TeamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:03:52.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCurrentTeams.Application",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetCurrentTeams\\GetCurrentTeams.Application\\GetCurrentTeams.Application.csproj",
+              "RelativeDocumentMoniker": "GetCurrentTeams.Application\\GetCurrentTeams.Application.csproj",
+              "ToolTip": "C:\\Projects\\NBA\\GetCurrentTeams\\GetCurrentTeams.Application\\GetCurrentTeams.Application.csproj",
+              "RelativeToolTip": "GetCurrentTeams.Application\\GetCurrentTeams.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T02:03:27.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetCurrentTeams",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetCurrentTeams\\GetCurrentTeams.csproj",
+              "RelativeDocumentMoniker": "GetCurrentTeams.csproj",
+              "ToolTip": "C:\\Projects\\NBA\\GetCurrentTeams\\GetCurrentTeams.csproj",
+              "RelativeToolTip": "GetCurrentTeams.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T02:00:36.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetCurrentTeams\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetCurrentTeams\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:32:19.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

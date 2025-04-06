@@ -1,0 +1,11 @@
+C:\Projects\NBA\GetCurrentTeams\GetCurrentTeams.Domain\bin\Debug\net8.0\GetCurrentTeams.Domain.deps.json
+C:\Projects\NBA\GetCurrentTeams\GetCurrentTeams.Domain\bin\Debug\net8.0\GetCurrentTeams.Domain.dll
+C:\Projects\NBA\GetCurrentTeams\GetCurrentTeams.Domain\bin\Debug\net8.0\GetCurrentTeams.Domain.pdb
+C:\Projects\NBA\GetCurrentTeams\GetCurrentTeams.Domain\obj\Debug\net8.0\GetCurrentTeams.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NBA\GetCurrentTeams\GetCurrentTeams.Domain\obj\Debug\net8.0\GetCurrentTeams.Domain.AssemblyInfoInputs.cache
+C:\Projects\NBA\GetCurrentTeams\GetCurrentTeams.Domain\obj\Debug\net8.0\GetCurrentTeams.Domain.AssemblyInfo.cs
+C:\Projects\NBA\GetCurrentTeams\GetCurrentTeams.Domain\obj\Debug\net8.0\GetCurrentTeams.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\NBA\GetCurrentTeams\GetCurrentTeams.Domain\obj\Debug\net8.0\GetCurrentTeams.Domain.dll
+C:\Projects\NBA\GetCurrentTeams\GetCurrentTeams.Domain\obj\Debug\net8.0\refint\GetCurrentTeams.Domain.dll
+C:\Projects\NBA\GetCurrentTeams\GetCurrentTeams.Domain\obj\Debug\net8.0\GetCurrentTeams.Domain.pdb
+C:\Projects\NBA\GetCurrentTeams\GetCurrentTeams.Domain\obj\Debug\net8.0\ref\GetCurrentTeams.Domain.dll

@@ -1,0 +1,17 @@
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\bin\Release\net8.0\GetTodaysGame.Infrastructure.deps.json
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\bin\Release\net8.0\GetTodaysGame.Infrastructure.dll
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\bin\Release\net8.0\GetTodaysGame.Infrastructure.pdb
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\bin\Release\net8.0\GetTodaysGame.Application.dll
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\bin\Release\net8.0\GetTodaysGame.Core.dll
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\bin\Release\net8.0\GetTodaysGame.Application.pdb
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\bin\Release\net8.0\GetTodaysGame.Core.pdb
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\obj\Release\net8.0\GetTodaysGame.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\obj\Release\net8.0\GetTodaysGame.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\obj\Release\net8.0\GetTodaysGame.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\obj\Release\net8.0\GetTodaysGame.Infrastructure.AssemblyInfo.cs
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\obj\Release\net8.0\GetTodaysGame.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\obj\Release\net8.0\GetToday.DEE7947A.Up2Date
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\obj\Release\net8.0\GetTodaysGame.Infrastructure.dll
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\obj\Release\net8.0\refint\GetTodaysGame.Infrastructure.dll
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\obj\Release\net8.0\GetTodaysGame.Infrastructure.pdb
+C:\Projects\NBA\GetTodaysGame\GetTodaysGame_v2\GetTodaysGame.Infrastructure\obj\Release\net8.0\ref\GetTodaysGame.Infrastructure.dll

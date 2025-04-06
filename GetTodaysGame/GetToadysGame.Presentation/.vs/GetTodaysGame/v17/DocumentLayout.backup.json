@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\NBA\\GetTodaysGame\\GetToadysGame.Presentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53944497-9486-48FA-B65E-818BC432279B}|..\\GetTodaysGame.Infrastructure\\GetTodaysGame.Infrastructure.csproj|c:\\projects\\nba\\gettodaysgame\\gettodaysgame.infrastructure\\http\\todaysgamefetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F070A857-C953-449F-AAAB-CE7771D4B0DD}|..\\GetTodaysGame.Core\\GetTodaysGame.Core.csproj|c:\\projects\\nba\\gettodaysgame\\gettodaysgame.core\\entities\\scheduleleague\\gamedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F070A857-C953-449F-AAAB-CE7771D4B0DD}|..\\GetTodaysGame.Core\\GetTodaysGame.Core.csproj|c:\\projects\\nba\\gettodaysgame\\gettodaysgame.core\\entities\\scheduleleague\\leagueschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F070A857-C953-449F-AAAB-CE7771D4B0DD}|..\\GetTodaysGame.Core\\GetTodaysGame.Core.csproj|c:\\projects\\nba\\gettodaysgame\\gettodaysgame.core\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F070A857-C953-449F-AAAB-CE7771D4B0DD}|..\\GetTodaysGame.Core\\GetTodaysGame.Core.csproj|c:\\projects\\nba\\gettodaysgame\\gettodaysgame.core\\entities\\scheduleleague\\leagueschedulegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F070A857-C953-449F-AAAB-CE7771D4B0DD}|..\\GetTodaysGame.Core\\GetTodaysGame.Core.csproj|c:\\projects\\nba\\gettodaysgame\\gettodaysgame.core\\entities\\scheduleleague\\meta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F070A857-C953-449F-AAAB-CE7771D4B0DD}|..\\GetTodaysGame.Core\\GetTodaysGame.Core.csproj|c:\\projects\\nba\\gettodaysgame\\gettodaysgame.core\\entities\\scheduleleague\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53944497-9486-48FA-B65E-818BC432279B}|..\\GetTodaysGame.Infrastructure\\GetTodaysGame.Infrastructure.csproj|c:\\projects\\nba\\gettodaysgame\\gettodaysgame.infrastructure\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E58155A-86AF-4C7F-9BA3-0C67F57B273F}|..\\GetTodaysGame.Application\\GetTodaysGame.Application.csproj|c:\\projects\\nba\\gettodaysgame\\gettodaysgame.application\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D789F60-79E4-4589-A7E5-5B30569F5020}|GetTodaysGame.csproj|c:\\projects\\nba\\gettodaysgame\\gettoadysgame.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D789F60-79E4-4589-A7E5-5B30569F5020}|GetTodaysGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D789F60-79E4-4589-A7E5-5B30569F5020}|GetTodaysGame.csproj|c:\\projects\\nba\\gettodaysgame\\gettoadysgame.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D789F60-79E4-4589-A7E5-5B30569F5020}|GetTodaysGame.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220976A-C2B6-4C9E-B18B-5C9AEE230480}|..\\GetTodaysGame.Application.Tests\\GetTodaysGame.Application.Tests.csproj|c:\\projects\\nba\\gettodaysgame\\gettodaysgame.application.tests\\gameservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E58155A-86AF-4C7F-9BA3-0C67F57B273F}|..\\GetTodaysGame.Application\\GetTodaysGame.Application.csproj|c:\\projects\\nba\\gettodaysgame\\gettodaysgame.application\\interfaces\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E58155A-86AF-4C7F-9BA3-0C67F57B273F}|..\\GetTodaysGame.Application\\GetTodaysGame.Application.csproj|c:\\projects\\nba\\gettodaysgame\\gettodaysgame.application\\interfaces\\itodaysgamefetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F070A857-C953-449F-AAAB-CE7771D4B0DD}|..\\GetTodaysGame.Core\\GetTodaysGame.Core.csproj|c:\\projects\\nba\\gettodaysgame\\gettodaysgame.core\\entities\\scheduleleague\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35778049-120A-483F-83E6-3C61C248094F}|..\\..\\Shared\\Shared.csproj|c:\\projects\\nba\\shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35778049-120A-483F-83E6-3C61C248094F}|..\\..\\Shared\\Shared.csproj|c:\\projects\\nba\\shared\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D789F60-79E4-4589-A7E5-5B30569F5020}|GetTodaysGame.csproj|c:\\projects\\nba\\gettodaysgame\\gettoadysgame.presentation\\gettodaysgame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D789F60-79E4-4589-A7E5-5B30569F5020}|GetTodaysGame.csproj|solutionrelative:gettodaysgame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\Team.cs",
+              "RelativeDocumentMoniker": "..\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\Team.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\Team.cs",
+              "RelativeToolTip": "..\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:21:23.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetToadysGame.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetToadysGame.Presentation\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T05:47:34.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Application\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "..\\GetTodaysGame.Application\\Services\\GameService.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Application\\Services\\GameService.cs",
+              "RelativeToolTip": "..\\GetTodaysGame.Application\\Services\\GameService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T02:12:08.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodaysGameFetcher.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Infrastructure\\Http\\TodaysGameFetcher.cs",
+              "RelativeDocumentMoniker": "..\\GetTodaysGame.Infrastructure\\Http\\TodaysGameFetcher.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Infrastructure\\Http\\TodaysGameFetcher.cs",
+              "RelativeToolTip": "..\\GetTodaysGame.Infrastructure\\Http\\TodaysGameFetcher.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowCoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:16:47.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeagueSchedule.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\LeagueSchedule.cs",
+              "RelativeDocumentMoniker": "..\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\LeagueSchedule.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\LeagueSchedule.cs",
+              "RelativeToolTip": "..\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\LeagueSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:10:33.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeagueScheduleGame.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\LeagueScheduleGame.cs",
+              "RelativeDocumentMoniker": "..\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\LeagueScheduleGame.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\LeagueScheduleGame.cs",
+              "RelativeToolTip": "..\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\LeagueScheduleGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:02:18.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Meta.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\Meta.cs",
+              "RelativeDocumentMoniker": "..\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\Meta.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\Meta.cs",
+              "RelativeToolTip": "..\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\Meta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:10:32.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameDate.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\GameDate.cs",
+              "RelativeDocumentMoniker": "..\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\GameDate.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\GameDate.cs",
+              "RelativeToolTip": "..\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\GameDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:10:34.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Infrastructure\\Repositories\\GameRepository.cs",
+              "RelativeDocumentMoniker": "..\\GetTodaysGame.Infrastructure\\Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Infrastructure\\Repositories\\GameRepository.cs",
+              "RelativeToolTip": "..\\GetTodaysGame.Infrastructure\\Repositories\\GameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:16:43.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "..\\GetTodaysGame.Core\\Entities\\Game.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\Game.cs",
+              "RelativeToolTip": "..\\GetTodaysGame.Core\\Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:03:36.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetToadysGame.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetToadysGame.Presentation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:03:06.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITodaysGameFetcher.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Application\\Interfaces\\ITodaysGameFetcher.cs",
+              "RelativeDocumentMoniker": "..\\GetTodaysGame.Application\\Interfaces\\ITodaysGameFetcher.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Application\\Interfaces\\ITodaysGameFetcher.cs",
+              "RelativeToolTip": "..\\GetTodaysGame.Application\\Interfaces\\ITodaysGameFetcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:12:37.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGameRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Application\\Interfaces\\IGameRepository.cs",
+              "RelativeDocumentMoniker": "..\\GetTodaysGame.Application\\Interfaces\\IGameRepository.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Application\\Interfaces\\IGameRepository.cs",
+              "RelativeToolTip": "..\\GetTodaysGame.Application\\Interfaces\\IGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:12:53.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameServiceTests.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Application.Tests\\GameServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\GetTodaysGame.Application.Tests\\GameServiceTests.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Application.Tests\\GameServiceTests.cs",
+              "RelativeToolTip": "..\\GetTodaysGame.Application.Tests\\GameServiceTests.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAWwCQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:13:09.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Root.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\Root.cs",
+              "RelativeDocumentMoniker": "..\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\Root.cs",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\Root.cs",
+              "RelativeToolTip": "..\\GetTodaysGame.Core\\Entities\\ScheduleLeague\\Root.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:10:32.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Shared",
+              "DocumentMoniker": "C:\\Projects\\NBA\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\Shared.csproj",
+              "ToolTip": "C:\\Projects\\NBA\\Shared\\Shared.csproj",
+              "RelativeToolTip": "..\\..\\Shared\\Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T18:02:23.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\NBA\\Shared\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Shared\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\NBA\\Shared\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\Shared\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:01:53.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetTodaysGame",
+              "DocumentMoniker": "C:\\Projects\\NBA\\GetTodaysGame\\GetToadysGame.Presentation\\GetTodaysGame.csproj",
+              "RelativeDocumentMoniker": "GetTodaysGame.csproj",
+              "ToolTip": "C:\\Projects\\NBA\\GetTodaysGame\\GetToadysGame.Presentation\\GetTodaysGame.csproj",
+              "RelativeToolTip": "GetTodaysGame.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T00:08:20.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
